@@ -3,6 +3,11 @@ A comprehensive blueprint and raw log repository for structural human-AI co-crea
 
 ---
 
+<img width="2752" height="1536" alt="unnamed (1)" src="https://github.com/user-attachments/assets/eb8b84c7-c020-4302-b2e8-5dc8b044b25d" />
+
+
+---
+
 # SOVOS: The Toyota Way for Human-AI Co-Creation
 ## — The Blueprint & Raw Log Repository —
 

@@ -335,3 +335,13 @@ English: These logs are not mere archives; they are a living record of AI evolut
 49_Thought_Sparring_and_Partnership.md (元：思考の壁打ち、お手伝いします.md)
 
 50_Repository_Cleanup_Standard_0222.md (元：GitHub整理術：リポジトリを綺麗にしよう0222.md)
+
+---
+
+🛠️ How to Access the Logs / ログの閲覧方法
+
+Download: 本リポジトリにある Gemini.logs20260208.zip をダウンロードしてください。
+
+Extract: ZIPを展開すると、01から13まで構造化されたフォルダ（全50ファイル）が現れます。
+
+Usage: 各ファイルはMarkdown形式（.md）です。ObsidianやVS Code、またはNotebookLMに読み込ませて活用してください。

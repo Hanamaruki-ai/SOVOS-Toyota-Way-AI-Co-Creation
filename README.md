@@ -29,6 +29,10 @@ This repository is a comprehensive record of elevating AI from a mere tool to a 
 
 ---
 
+# Note: Raw logs are currently provided in a compressed ZIP format for integrity. Please download and extract Gemini.logs.zip to access the full blueprint.
+
+---
+
 ### 📁 Repository Structure / リポジトリ構成 (Total 50 Logs)
 
 本リポジトリには、NotebookLMによって構造化された50本の生ログが格納されています。

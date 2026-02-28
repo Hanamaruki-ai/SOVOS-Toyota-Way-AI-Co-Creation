@@ -174,7 +174,7 @@ English: These logs are not mere archives; they are a living record of AI evolut
 💰 Category: GitHub Sponsors Strategy (13-15)
 13_GitHub_Sponsors_Tier_Pricing_and_Support_Logic.md (Original File: AI対話ログの検証と再構築 20260116.md)
 14_Monetizing_Raw_Logs_as_Asset_Blueprints.md (Original File: AIトレーナー適性：GitHubリポジトリ検証 0120.md)
- 15_Phishing_Defense_and_Input_Literacy_Protocols.md (Original File: AI入力：精密技能と対話力の対比.md の後半セクション)
+15_Phishing_Defense_and_Input_Literacy_Protocols.md (Original File: AI入力：精密技能と対話力の対比.md の後半セクション)
 
 --------------------------------------------------------------------------------
 06📂
@@ -188,7 +188,7 @@ English: These logs are not mere archives; they are a living record of AI evolut
 --------------------------------------------------------------------------------
 07📂
 
-📝 Category: Practical Guides, Production Logs, and Dialogue Insights (19-50)
+📝 Category: Practical Guides, Production Logs, and Dialogue Insights (19-23)
 19_AI_Dialogue_Record_Vol3_Turning_Point.md (Original File: AI Dialogue's Deepening Turn.md)
 20_NeuroSama_Case_Thought_Loop_Normalization_Logs.md (Original File: AIの自我と「本物」への問い　動画読み込み思考ル－プ.md)
 21_Precision_Skills_vs_Dialogue_Power_Contrast.md (Original File: AI入力：精密技能と対話力の対比.md)
@@ -197,6 +197,7 @@ English: These logs are not mere archives; they are a living record of AI evolut
 
 --------------------------------------------------------------------------------
 08 📂
+📝 Category: Practical Guides, Production Logs, and Dialogue Insights (24-28)
 24_Safe_Internet_Operation_Protocols_for_AI_Agents.md (Original File: AIエージェントの安全なインターネット運用.md)
 25_AI_Trainer_Expert_Application_Specialization.md (Original File: AIトレーナー応募への準備　0112.md)
 26_NotebookLM_Production_Workflow_Analysis.md (Original File: ノートブック LM の新機能を紹介してもらって動画を作ってみました。.md)
@@ -205,7 +206,7 @@ English: These logs are not mere archives; they are a living record of AI evolut
 
 --------------------------------------------------------------------------------
 09 📂
-
+📝 Category: Practical Guides, Production Logs, and Dialogue Insights (29-33)
 29_Strategic_Self_Definition_and_Subject_Object_Anchor_0116.md (Original File: AIの自己定義と人間の役割 0116.md)
 30_Token_Limits_and_Agentic_Model_Evolution_Dynamics.md (Original File: トークン制限と エ－ジェント モデル進化の関係.md)
 31_Japanese_AI_Trainer_Job_Content_Market_Analysis.md (Original File: 日本語AIトレーナーの仕事内容.md)
@@ -215,6 +216,7 @@ English: These logs are not mere archives; they are a living record of AI evolut
 --------------------------------------------------------------------------------
 10 📂
 
+📝 Category: Practical Guides, Production Logs, and Dialogue Insights (34-38)
 34_AI_Dialogue_Security_and_Article_Interpretation_Logic.md (Original File: AI セキュリティと記事の解釈.md)
 35_Pro_Level_Utilization_of_AI_Generation_Rooms.md (Original File: AI生成部屋のプロ的な活用法.md)
 36_Ebook_Platform_Comparison_and_Publishing_Strategy.md (Original File: 電子書籍出版サイトの比較と選択.md)
@@ -224,6 +226,7 @@ English: These logs are not mere archives; they are a living record of AI evolut
 --------------------------------------------------------------------------------
 11 📂
 
+📝 Category: Practical Guides, Production Logs, and Dialogue Insights (39-43)
 39_Chat_Log_Retention_Policy_and_Background_Logic_0113.md (Original File: チャットログ保持方針の背景 0113.md)
 40_Google_AI_Strategy_Isolation_and_Standardization_0122.md (Original File: GoogleのAI戦略：隔離と標準化　0122.md)
 41_AI_Kyoji_Sekkei_Interface_and_Evolving_Blueprints.md (Original File: AI教示設計インターフェースの転用.md)
@@ -233,6 +236,7 @@ English: These logs are not mere archives; they are a living record of AI evolut
 --------------------------------------------------------------------------------
 12 📂
 
+📝 Category: Practical Guides, Production Logs, and Dialogue Insights (44-48)
 44_Google_Account_Strategic_Utilization_for_Enterprise_Scale.md (Original File: Googleアカウント作成数と仕事での活用.md)
 45_Strategic_Outlier_Application_Case_Study_20260115.md (Original File: OUTLIE AI　応募相談　Gemini.logs20260115.md)
 46_AI_Auditing_and_Structural_Evaluation_Expert_Logs.md (Original File: OUTLIER AI　応募相談　Gemini.logs20260115.md)
@@ -242,5 +246,6 @@ English: These logs are not mere archives; they are a living record of AI evolut
 --------------------------------------------------------------------------------
 13 📂
 
+📝 Category: Practical Guides, Production Logs, and Dialogue Insights (49-50)
 49_Subject_Object_Separation_Protocol_0116.md (Original File: AIの自己定義と人間の役割 0116.md)
 50_Video_Annotation_Production_Logs_and_Metadata_Insights.md (Original File: AI プライバシー動画の感想と記事化.md)

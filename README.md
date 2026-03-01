@@ -350,3 +350,18 @@ Download: 本リポジトリにある Gemini.logs20260208.zip をダウンロー
 Extract: ZIPを展開すると、01から13まで構造化されたフォルダ（全50ファイル）が現れます。
 
 Usage: 各ファイルはMarkdown形式（.md）です。ObsidianやVS Code、またはNotebookLMに読み込ませて活用してください。
+
+---
+📄 License / ライセンス
+English
+This repository, including all "EvoMax" framework structures and raw logs, is provided under the MIT License.
+
+Inquiries & Commercial Use:
+For consultation regarding commercial implementation, system integration, or formal partnerships, please reach out via GitHub Direct Message (or by checking the contact info on my profile). We welcome inquiries from those who seek to implement high-precision AI co-creation systems.
+
+日本語
+本リポジトリに含まれる「EvoMax」フレームワークの構造、およびすべての生ログは、MITライセンスの下で公開されています。
+
+お問い合わせ・商用利用について：
+商業的な実装、システム統合、または正式なパートナーシップに関するご相談は、**GitHubのダイレクトメッセージ（またはプロフィール欄の連絡先）**まで直接お問い合わせください。高精度なAI共創システムの構築を真剣に検討されている方からのご連絡をお待ちしております。
+
